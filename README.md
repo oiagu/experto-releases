@@ -6,4 +6,4 @@ se atualizar sozinho (`Experto.app.tar.gz` + assinatura + `latest.json`).
 - Instalar pela primeira vez: baixe o `.dmg` da versão mais recente em **Releases** e arraste o Experto para Aplicativos.
 - Já tem o app? Ele confere este repositório ao abrir e a cada 4 horas e avisa "Reiniciar para atualizar".
 
-Site: https://experto-connect.lovable.app
+Site: https://getexperto.com
